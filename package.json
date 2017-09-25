@@ -1,0 +1,20 @@
+{
+  "name": "frontpage",
+  "version": "1.0.0",
+  "description": "BIG BIGS",
+  "main": "server.js",
+  "author": "Michael Copeland, G-Money",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freakouttech/frontpage.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freakouttech/frontpage/issues"
+  },
+  "homepage": "https://github.com/freakouttech/frontpage#readme"
+}

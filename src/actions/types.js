@@ -1,0 +1,21 @@
+//Sign Up User
+export const SIGNUP_USER = 'SIGNUP_USER';
+export const SIGNUP_USER_SUCCESS = 'SIGNUP_USER_SUCCESS';
+export const SIGNUP_USER_FAILURE = 'SIGNUP_USER_FAILURE';
+export const RESET_USER = 'RESET_USER';
+
+//Sign In User
+export const SIGNIN_USER = 'SIGNIN_USER';
+export const SIGNIN_USER_SUCCESS = 'SIGNIN_USER_SUCCESS';
+export const SIGNIN_USER_FAILURE = 'SIGNIN_USER_FAILURE';
+
+
+//validate email, if success, then load user and login
+export const VALIDATE_EMAIL = 'VALIDATE_EMAIL';
+export const VALIDATE_EMAIL_SUCCESS = 'VALIDATE_EMAIL_SUCCESS';
+export const VALIDATE_EMAIL_FAILURE = 'VALIDATE_EMAIL_FAILURE';
+
+export const LOGOUT_USER = 'LOGOUT_USER';
+
+// AMAZON
+export const GET_SEARCHVALUE_SUCCESS = 'GET_SEARCHVALUE_SUCCESS';

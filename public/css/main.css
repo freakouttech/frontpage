@@ -1,0 +1,23 @@
+
+#wrapper {
+	margin: auto;
+	text-align: center;
+    transition: all .2s ease-in-out;
+}
+
+.hero-logo {
+	position: relative;
+    display:block;
+    top:0px;
+    left: 0px;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+    background: transparent;
+}
+
+.product-item {
+    display: inline-flex;
+}

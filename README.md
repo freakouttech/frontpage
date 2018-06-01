@@ -1,4 +1,9 @@
 # frontpage
 
-1. - NPM I
-2. - NPM RUN START
+Static -
+1. - npm i
+2. - npm run start
+
+Webpack version
+1. - npm i
+1. - npm run start-webpack
